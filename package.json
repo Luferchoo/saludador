@@ -2,10 +2,10 @@
   "name": "parcel-jest-base",
   "version": "1.0.0",
   "description": "",
-  "default": "index.html",
+  "default": "saludador.html",
   "scripts": {
-    "start": "parcel index.html",
-    "build": "parcel build index.html",
+    "start": "parcel saludador.html",
+    "build": "parcel build saludador.html",
     "test": "jest --watch",
     "test-once": "jest"
   },
